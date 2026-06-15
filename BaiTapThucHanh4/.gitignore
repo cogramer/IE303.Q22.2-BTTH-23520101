@@ -1,0 +1,30 @@
+# Compiled Java files
+*.class
+*.jar
+*.war
+*.ear
+
+# JavaFX SDK
+javafx-sdk-*/
+lib/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+bin/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Build artifacts
+target/
+build/
+dist/
